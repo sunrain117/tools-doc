@@ -2,7 +2,7 @@
  * @Author: si shaohua
  * @Date: 2021-05-08 10:25:48
  * @LastEditors: si shaohua
- * @LastEditTime: 2021-05-24 14:34:24
+ * @LastEditTime: 2021-06-07 19:38:07
  * @Description: file content
 -->
 ## Node 常用的第三方工具
@@ -21,7 +21,12 @@
 * react-table 
 * styled-components
 * react-resizable
-* 
+* react-dnd
+* react-virtualized
+
+## js
+* terser
+> 用于ES6+的javascript解析、压缩工具包，uglify-es不再维护，并且它不支持ES6+
 
 
 
